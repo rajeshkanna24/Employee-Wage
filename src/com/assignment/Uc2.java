@@ -9,10 +9,10 @@ public class Uc2 {
         int emphrs = 0;
         int empwage = 0;
         Random random = new Random();
-        int empcheck = random.nextInt(0, 2);
+        int empcheck = random.nextInt(0, 3);
         if (empcheck == is_part_time)
         {
-            emphrs = 4;
+            emphrs = 0;
         }
         else if (empcheck == is_full_time)
         {

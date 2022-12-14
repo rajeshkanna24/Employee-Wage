@@ -10,14 +10,14 @@ public class Uc3 {
     int emphrs = 0;
     int empwage = 0;
     Random random = new Random();
-    int empcheck = random.nextInt(0, 2);
+    int empcheck = random.nextInt(0, 3);
     if (empcheck == is_part_time)
     {
         emphrs = 8;
     }
     else if (empcheck == is_full_time)
     {
-        emphrs = 8;
+        emphrs = 0;
     }
     else
     {
