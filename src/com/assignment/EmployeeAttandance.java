@@ -2,7 +2,7 @@ package com.assignment;
 
 import java.util.Random;
 
-public class Uc1 {
+public class EmployeeAttandance {
         public static void main(String[] args) {
             int is_it_full = 1;
             Random random = new Random();

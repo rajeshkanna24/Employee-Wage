@@ -1,7 +1,7 @@
 package com.assignment;
 import java.util.Random;
 
-public class Uc5 {
+public class Wageformonth {
     public static final int is_part_time = 1;
     public static final int is_full_time = 2;
    public static final int emp_rate_per_hour = 20;

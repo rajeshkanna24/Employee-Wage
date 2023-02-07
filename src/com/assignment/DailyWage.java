@@ -1,7 +1,7 @@
 package com.assignment;
 import java.util.Random;
 
-public class Uc2 {
+public class DailyWage {
     public static void main(String[] args) {
         int is_part_time = 1;
         int is_full_time = 2;

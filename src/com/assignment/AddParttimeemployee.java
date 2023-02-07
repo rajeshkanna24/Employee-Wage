@@ -2,7 +2,7 @@ package com.assignment;
 
 import java.util.Random;
 
-public class Uc3 {
+public class AddParttimeemployee {
     public static void main(String[] args) {
     int is_part_time = 1;
     int is_full_time = 2;
